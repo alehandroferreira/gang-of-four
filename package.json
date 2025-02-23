@@ -1,0 +1,17 @@
+{
+  "name": "gang-of-four",
+  "version": "1.0.0",
+  "description": "📌 Repositório criado para estudar e aplicar os padrões de design do Gang of Four (GOF) no desenvolvimento de software com TypeScript/NestJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
